@@ -214,6 +214,22 @@ Para não depender só do Postman, o projeto tem uma interface simples para gere
 
 <img width="1868" height="866" alt="Captura de tela 2026-11-19 165415" src="https://github.com/user-attachments/assets/477902a7-c63c-4b41-8417-6c7b4d136d34" />
 
+**Uso do GET**
+
+<img width="1919" height="1007" alt="Captura de tela 2026-11-19 165245" src="https://github.com/user-attachments/assets/f172da94-62c1-47e5-bf84-266973ea7634" />
+
+**Funcionando**
+
+<img width="1919" height="1007" alt="Captura de tela 2026-11-19 165301" src="https://github.com/user-attachments/assets/894fc82f-5cb2-4cd7-92f0-e935ee7c1b96" />
+
+**Uso do POST**
+
+<img width="1919" height="998" alt="Captura de tela 2026-11-19 165431" src="https://github.com/user-attachments/assets/34a49df1-3049-472e-9936-075cba104749" />
+
+
+
+
+
 
 ---
 
