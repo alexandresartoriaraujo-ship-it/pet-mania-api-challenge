@@ -202,7 +202,7 @@ Para não depender só do Postman, o projeto tem uma interface simples para gere
 
 **Tela inicial**
 
-![Tela inicial](./docs/img/tela-inicial.png)
+blob:https://claude.ai/9e414f29-6ea9-4626-b69c-e943fdf944b3
 
 **Cadastro de animal**
 
