@@ -1,4 +1,4 @@
-<img width="1479" height="842" alt="Captura de tela 2026-11-19 165329" src="https://github.com/user-attachments/assets/56fc7304-1e73-45e3-8294-0a6305dd00c0" /><div align="center">
+
 
 # 🐾 Pet Mania API
 
@@ -192,7 +192,15 @@ Testei cada operação (consulta, cadastro, atualização e exclusão) no Postma
 
 **GET: listar animais**
 
-![GET - Listar animais](./docs/img/get-pets.png)
+<img width="1919" height="1007" alt="Captura de tela 2026-11-19 165245" src="https://github.com/user-attachments/assets/d6140e38-f980-491d-975f-26c1329c0ad2" />
+
+e tambem
+
+<img width="1919" height="1007" alt="Captura de tela 2026-11-19 165301" src="https://github.com/user-attachments/assets/1c702f68-e5f8-48af-9241-297cdd3ff41d" />
+
+**Uso do POST**
+
+<img width="1919" height="998" alt="Captura de tela 2026-11-19 165431" src="https://github.com/user-attachments/assets/7c3d1934-1a45-4965-a777-d045c497a2fa" />
 
 ---
 
@@ -214,22 +222,9 @@ Para não depender só do Postman, o projeto tem uma interface simples para gere
 
 <img width="1868" height="866" alt="Captura de tela 2026-11-19 165415" src="https://github.com/user-attachments/assets/477902a7-c63c-4b41-8417-6c7b4d136d34" />
 
-**Uso do GET**
-
-<img width="1919" height="1007" alt="Captura de tela 2026-11-19 165245" src="https://github.com/user-attachments/assets/f172da94-62c1-47e5-bf84-266973ea7634" />
-
-**Funcionando**
-
-<img width="1919" height="1007" alt="Captura de tela 2026-11-19 165301" src="https://github.com/user-attachments/assets/894fc82f-5cb2-4cd7-92f0-e935ee7c1b96" />
-
 **Uso do POST**
 
 <img width="1919" height="998" alt="Captura de tela 2026-11-19 165431" src="https://github.com/user-attachments/assets/34a49df1-3049-472e-9936-075cba104749" />
-
-
-
-
-
 
 ---
 
