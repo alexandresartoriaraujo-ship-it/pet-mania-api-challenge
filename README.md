@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1479" height="842" alt="Captura de tela 2026-11-19 165329" src="https://github.com/user-attachments/assets/56fc7304-1e73-45e3-8294-0a6305dd00c0" /><div align="center">
 
 # 🐾 Pet Mania API
 
@@ -202,15 +202,18 @@ Para não depender só do Postman, o projeto tem uma interface simples para gere
 
 **Tela inicial**
 
-blob:https://claude.ai/9e414f29-6ea9-4626-b69c-e943fdf944b3
+<img width="1479" height="842" alt="Captura de tela 2026-11-19 165329" src="https://github.com/user-attachments/assets/2fcc2d98-071c-4a78-a916-db6a0767a4ba" />
+
 
 **Cadastro de animal**
 
-![Cadastro de animal](./docs/img/cadastro.png)
+<img width="716" height="794" alt="Captura de tela 2026-11-19 165340" src="https://github.com/user-attachments/assets/f1ba2aa8-254d-4f2c-a8b9-04c494533e81" />
+
 
 **Atualização de animal**
 
-![Atualização de animal](./docs/img/atualizacao.png)
+<img width="1868" height="866" alt="Captura de tela 2026-11-19 165415" src="https://github.com/user-attachments/assets/477902a7-c63c-4b41-8417-6c7b4d136d34" />
+
 
 ---
 
